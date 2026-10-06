@@ -1,4 +1,4 @@
-# Radar Tracking V.3
+# Radar Tracking
 
 An ESP32 project that scans a 180-degree sector, detects nearby objects, and follows a confirmed target. The HC-SR04 supplies distance measurements, the HLK-LD2410S supplies a presence-confirmation signal, and an SG90 servo changes the direction of both sensors. A 128 x 64 SSD1306 OLED shows the scan as a Sector PPI display, while a buzzer indicates the detection state.
 
