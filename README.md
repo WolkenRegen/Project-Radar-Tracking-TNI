@@ -4,6 +4,8 @@ An ESP32 project that scans a 180-degree sector, detects nearby objects, and fol
 
 **Platform:** DOIT ESP32 DevKit V1, Arduino framework, and PlatformIO in VS Code.
 
+See the [system flowchart](docs/Flowcharts/system.svg) and [tracking flowchart](docs/Flowcharts/tracking.svg) for a visual explanation of program operation.
+
 ## 1. Hardware roles
 
 | Component | Role in the system |

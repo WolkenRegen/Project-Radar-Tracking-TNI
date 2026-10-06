@@ -14,7 +14,7 @@ constexpr uint8_t OLED_ADDRESS = 0x3C;
 
 constexpr float MIN_VALID_CM = 2.0f;
 constexpr float MAX_VALID_CM = 400.0f;
-constexpr float DETECT_CM = 60.0f;
+constexpr float DETECT_CM = 20.0f;
 constexpr uint32_t PING_INTERVAL_MS = 65;
 constexpr uint32_t ECHO_TIMEOUT_US = 25000;
 constexpr uint32_t RADAR_DEBOUNCE_MS = 40;
